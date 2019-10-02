@@ -1,0 +1,116 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXAggregateTarget section */
+		AC88A7482328BDCD00760593 /* Handmade Hero Mac Platform Layer */ = {
+			isa = PBXAggregateTarget;
+			buildConfigurationList = AC88A7492328BDCE00760593 /* Build configuration list for PBXAggregateTarget "Handmade Hero Mac Platform Layer" */;
+			buildPhases = (
+			);
+			dependencies = (
+			);
+			name = "Handmade Hero Mac Platform Layer";
+			productName = "Handmade Hero Mac Platform Layer";
+		};
+/* End PBXAggregateTarget section */
+
+/* Begin PBXFileReference section */
+		AC88A74C2328BE8000760593 /* osx_main.mm */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.objcpp; name = osx_main.mm; path = ../../code/osx_main.mm; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		AC88A7412328BD6E00760593 = {
+			isa = PBXGroup;
+			children = (
+				AC88A74C2328BE8000760593 /* osx_main.mm */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		AC88A7422328BD6E00760593 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 1020;
+				TargetAttributes = {
+					AC88A7482328BDCD00760593 = {
+						CreatedOnToolsVersion = 10.2.1;
+					};
+				};
+			};
+			buildConfigurationList = AC88A7452328BD6E00760593 /* Build configuration list for PBXProject "Handmade Hero Mac Platform Layer" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = AC88A7412328BD6E00760593;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				AC88A7482328BDCD00760593 /* Handmade Hero Mac Platform Layer */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		AC88A7462328BD6E00760593 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		AC88A7472328BD6E00760593 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+		AC88A74A2328BDCE00760593 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		AC88A74B2328BDCE00760593 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		AC88A7452328BD6E00760593 /* Build configuration list for PBXProject "Handmade Hero Mac Platform Layer" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				AC88A7462328BD6E00760593 /* Debug */,
+				AC88A7472328BD6E00760593 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		AC88A7492328BDCE00760593 /* Build configuration list for PBXAggregateTarget "Handmade Hero Mac Platform Layer" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				AC88A74A2328BDCE00760593 /* Debug */,
+				AC88A74B2328BDCE00760593 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = AC88A7422328BD6E00760593 /* Project object */;
+}
