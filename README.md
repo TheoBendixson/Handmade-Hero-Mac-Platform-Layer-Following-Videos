@@ -1,7 +1,7 @@
 # Handmade Hero OSX Platform Layer (Following Video Tutorials) 
 
 ## What is it?
-This is the repository of my Mac platform layer for Casey Muratori's Handmade Hero. It follows [my YouTube tutorial series, where I start from ground zero and show you how to build your own game engine from scratch in C](https://youtu.be/M5l6CvHwWsc), using Mac OS as a starting point. 
+This is my Mac platform layer for Casey Muratori's Handmade Hero. It follows [my YouTube tutorial series, where I start from ground zero and show you how to build your own game engine from scratch in C](https://youtu.be/M5l6CvHwWsc), using Mac OS as a starting point. 
 
 ## Why do this?
 Simply put, I believe it is important for people to learn how to build things from scratch. I wanted to learn how to make my own game engines, and I had a Mac computer sitting in front of me. So instead of going out and purchasing a P.C. to follow the series, I just used what I had on hand.
